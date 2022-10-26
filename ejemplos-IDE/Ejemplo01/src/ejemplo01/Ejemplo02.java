@@ -7,16 +7,14 @@ package ejemplo01;
 
 /**
  *
- * @author reroes
+ * @author SALA I
  */
-public class Ejemplo01 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
+public class Ejemplo02 {
+     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hola Mundo")
+        System.out.println("Nueva Leyenda")
     }
-    
 }
+
+ 
+    }
