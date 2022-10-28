@@ -20,9 +20,9 @@ public class Ejemplo10 {
         int b = 1;
         int c = 20;
 
-        boolean operando1 = a > b;
-        boolean operando2 = c == a;
-        boolean valorC = operando1 && operando2;
+        boolean operando1 = a > b; // 10 > 1 // true
+        boolean operando2 = c == a; // 20 == 10 // false
+        boolean valorC = operando1 && operando2; // false
 
         System.out.println(valorC);
 
